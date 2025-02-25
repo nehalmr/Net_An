@@ -3,7 +3,7 @@
 A modern, real-time network analysis tool built with React, Three.js, and TypeScript. Visualize and monitor network traffic with an intuitive and beautiful interface.
 
 ![net_an Screenshot](screenshot.png)
-
+![net_an Screenshot](screenshot2.png)
 ## Features
 
 - 🌐 Real-time network traffic monitoring
