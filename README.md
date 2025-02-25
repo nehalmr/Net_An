@@ -35,8 +35,8 @@ A modern, real-time network analysis tool built with React, Three.js, and TypeSc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/net_an.git
-   cd net_an
+   git clone https://github.com/nehalmr/Net_An.git
+   cd Net_An
    ```
 
 2. Install dependencies:
@@ -55,6 +55,7 @@ A modern, real-time network analysis tool built with React, Three.js, and TypeSc
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser
 
+
 ### Building for Production
    ```bash
    npm run build
@@ -62,7 +63,7 @@ A modern, real-time network analysis tool built with React, Three.js, and TypeSc
    yarn build
    ```
 
-5. Serve the built files:
+### Serve the built files:
    ```bash
    npm run serve
    # or
